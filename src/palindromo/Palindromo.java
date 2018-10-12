@@ -1,4 +1,4 @@
-/*
+ /*
  * Escribe un metod
  */
 package palindromo;
